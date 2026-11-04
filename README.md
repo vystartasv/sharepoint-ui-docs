@@ -1,7 +1,5 @@
 # SharePoint UI documentation
 
-This repository hosts the static documentation site for SharePoint UI, a theme-aware component library for SharePoint Framework 1.24.
+This repository previously held a generated copy of the documentation. The maintained source and current docs site now live in [vystartasv/sharepoint-ui](https://github.com/vystartasv/sharepoint-ui).
 
-The site is built from the library workspace and deployed to GitHub Pages by the `Deploy SharePoint UI documentation` workflow.
-
-Visit <https://vystartasv.github.io/sharepoint-ui-docs/>.
+The old Pages URL redirects to the current documentation at <https://vystartasv.github.io/sharepoint-ui/>. Build changes in the source repository; do not edit generated site files here.
